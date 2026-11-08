@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+dist/
+coverage/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+/README.md
+/AGENTS.md
+/docs/LAYOUT.md
+/docs/CONVENTIONS.md
